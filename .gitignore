@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.venv/
+venv/
+.tokens.json
+uploads/
+*.mp4
+*.mov
+.DS_Store
